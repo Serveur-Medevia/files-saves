@@ -294,19 +294,9 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76507814,
-            "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar",
+            "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar,
             "MD5": "9e10e9af279fa7e317fe678812f80ddc"
           },
-		   "subModules": [
-				{
-					"id": "com.creativemd:creativecore:1.10@jar",
-					"name": "CreativeCore",
-					"type": "ForgeMod",
-					"artifact": {
-						"size": 1320474,
-						"url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/CreativeCore_v1.10.70_mc1.12.2.jar",
-						"MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
-        },
           "required": {
             "value": false
           }
@@ -352,6 +342,19 @@
             "size": 231809,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/CraftPresence-1.12.2-1.5.5.jar",
             "MD5": "140567d7df1de8b9a903140e799582c8"
+          }
+        },
+        {
+          "id": "com.creativemd:creativecore:1.10@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320474,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/CreativeCore_v1.10.70_mc1.12.2.jar",
+            "MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
