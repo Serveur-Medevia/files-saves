@@ -297,6 +297,16 @@
             "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar",
             "MD5": "9e10e9af279fa7e317fe678812f80ddc"
           },
+		   "subModules": [
+				{
+					"id": "com.creativemd:creativecore:1.10@jar",
+					"name": "CreativeCore",
+					"type": "ForgeMod",
+					"artifact": {
+						"size": 1320474,
+						"url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/CreativeCore_v1.10.70_mc1.12.2.jar",
+						"MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
+        },
           "required": {
             "value": false
           }
@@ -468,13 +478,23 @@
           }
         },
         {
-          "id": "mod.alexndr.simpleores:simpleores2:1.15.2-2.1.10.2@jar",
-          "name": "SimpleOres2",
+          "id": "alexndr.api.core:simplecore:1.7.3.4@jar",
+          "name": "SimpleCore API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 328125,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/SimpleOres2-1.15.2-2.1.10.2.jar",
-            "MD5": "c0f9050b9bc759b6f54c872ba03c4e13"
+            "size": 133644,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/simplecore-1.12.2-1.7.3.4.jar",
+            "MD5": "ddab2eebf48d203259e84aaa58173084"
+          }
+        },
+        {
+          "id": "alexndr.plugins:simpleores:1.11.2.2@jar",
+          "name": "SimpleOres 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 157767,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/simpleores-1.12.2-1.11.2.2.jar",
+            "MD5": "4fa468acd7dab8236bcb6424632c4647"
           }
         },
         {
