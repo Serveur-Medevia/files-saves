@@ -294,7 +294,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76507814,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/AmbientSounds_v3.1.7_mc1.12.2.jar",
+            "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar",
             "MD5": "9e10e9af279fa7e317fe678812f80ddc"
           },
           "required": {
