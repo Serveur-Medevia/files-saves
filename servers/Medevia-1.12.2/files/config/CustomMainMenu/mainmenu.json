@@ -1,13 +1,6 @@
 {   
     "texts":
     {
-        "pseudo":
-        {
-            "text" : "#username#",
-            "posX" : 5,
-            "posY" : 120,
-            "color" : -1
-        }
     },
         "images":
     {
@@ -32,10 +25,11 @@
         "playerskin":
         {
             "image" : "web:https://minotar.net/armor/bust/#username#/100.png",
-            "posX": 5,
-            "posY": 145,
+            "posX": 7,
+            "posY": -55,
             "width": 50,
-            "height": 70
+            "height": 55,
+            "alignment": "bottom_left"
         }
     },
     "buttons":
