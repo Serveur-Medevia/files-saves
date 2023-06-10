@@ -1,0 +1,16 @@
+{
+	"x": -50,
+	"y": 80,
+	"width": 98,
+	"height": 20,
+	"langKey": "Support ?",
+	"action": "OPEN_URL",
+	"data": "https://www.medevia.net/support/tickets",
+	"u": 0,
+	"v": 66,
+	"hoverU": 0,
+	"hoverV": 86,
+	"texture": "packmenu:textures/gui/widgets.png",
+	"texWidth": 256,
+	"texHeight": 256
+}
