@@ -6,5 +6,5 @@
 	"langKey": "Se connecter",
 	"action": "CONNECT_TO_SERVER",
 	"texture": "packmenu:textures/gui/widgets.png",
-	"data": "185.41.152.56:55115"
+	"data": "play.medevia.net"
 }
